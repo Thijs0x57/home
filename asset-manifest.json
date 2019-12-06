@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/puremonk-web/static/css/main.d1b05096.chunk.css",
+    "main.js": "/puremonk-web/static/js/main.fe40452d.chunk.js",
+    "main.js.map": "/puremonk-web/static/js/main.fe40452d.chunk.js.map",
+    "runtime-main.js": "/puremonk-web/static/js/runtime-main.e7b12f46.js",
+    "runtime-main.js.map": "/puremonk-web/static/js/runtime-main.e7b12f46.js.map",
+    "static/js/2.6fb4ea39.chunk.js": "/puremonk-web/static/js/2.6fb4ea39.chunk.js",
+    "static/js/2.6fb4ea39.chunk.js.map": "/puremonk-web/static/js/2.6fb4ea39.chunk.js.map",
+    "index.html": "/puremonk-web/index.html",
+    "precache-manifest.aeec2b57bccc7b0d337bd1d6eace6efa.js": "/puremonk-web/precache-manifest.aeec2b57bccc7b0d337bd1d6eace6efa.js",
+    "service-worker.js": "/puremonk-web/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/puremonk-web/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.6fb4ea39.chunk.js.LICENSE": "/puremonk-web/static/js/2.6fb4ea39.chunk.js.LICENSE",
+    "static/media/logo.svg": "/puremonk-web/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7b12f46.js",
+    "static/js/2.6fb4ea39.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.fe40452d.chunk.js"
+  ]
+}
