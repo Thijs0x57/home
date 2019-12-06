@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/puremonk-web/precache-manifest.aeec2b57bccc7b0d337bd1d6eace6efa.js"
+  "/puremonk-web/precache-manifest.d962e3ce8f7f1fd066da3be017d5b9ea.js"
 );
 
 self.addEventListener('message', (event) => {
