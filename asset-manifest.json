@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/puremonk-web/static/css/main.8ab6f918.chunk.css",
-    "main.js": "/puremonk-web/static/js/main.aa094b57.chunk.js",
-    "main.js.map": "/puremonk-web/static/js/main.aa094b57.chunk.js.map",
-    "runtime-main.js": "/puremonk-web/static/js/runtime-main.e7b12f46.js",
-    "runtime-main.js.map": "/puremonk-web/static/js/runtime-main.e7b12f46.js.map",
-    "static/js/2.6fb4ea39.chunk.js": "/puremonk-web/static/js/2.6fb4ea39.chunk.js",
-    "static/js/2.6fb4ea39.chunk.js.map": "/puremonk-web/static/js/2.6fb4ea39.chunk.js.map",
-    "index.html": "/puremonk-web/index.html",
-    "precache-manifest.98ef17e66903bf5cd55f17382b394fad.js": "/puremonk-web/precache-manifest.98ef17e66903bf5cd55f17382b394fad.js",
-    "service-worker.js": "/puremonk-web/service-worker.js",
-    "static/css/main.8ab6f918.chunk.css.map": "/puremonk-web/static/css/main.8ab6f918.chunk.css.map",
-    "static/js/2.6fb4ea39.chunk.js.LICENSE": "/puremonk-web/static/js/2.6fb4ea39.chunk.js.LICENSE",
-    "static/media/face.png": "/puremonk-web/static/media/face.bebf0221.png"
+    "main.css": "/home/static/css/main.102bd119.chunk.css",
+    "main.js": "/home/static/js/main.54018029.chunk.js",
+    "main.js.map": "/home/static/js/main.54018029.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.f6501a9c.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.f6501a9c.js.map",
+    "static/js/2.6fb4ea39.chunk.js": "/home/static/js/2.6fb4ea39.chunk.js",
+    "static/js/2.6fb4ea39.chunk.js.map": "/home/static/js/2.6fb4ea39.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.bd1cf212abf824fc94b071b143b19375.js": "/home/precache-manifest.bd1cf212abf824fc94b071b143b19375.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.102bd119.chunk.css.map": "/home/static/css/main.102bd119.chunk.css.map",
+    "static/js/2.6fb4ea39.chunk.js.LICENSE": "/home/static/js/2.6fb4ea39.chunk.js.LICENSE",
+    "static/media/App.css": "/home/static/media/Courier-Prime-Code.7d3cfc45.ttf",
+    "static/media/programming-monitor.png": "/home/static/media/programming-monitor.b0d545af.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7b12f46.js",
+    "static/js/runtime-main.f6501a9c.js",
     "static/js/2.6fb4ea39.chunk.js",
-    "static/css/main.8ab6f918.chunk.css",
-    "static/js/main.aa094b57.chunk.js"
+    "static/css/main.102bd119.chunk.css",
+    "static/js/main.54018029.chunk.js"
   ]
 }
