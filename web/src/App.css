@@ -1,38 +1,43 @@
-.App {
-  text-align: center;
+
+@font-face {
+  font-family: 'Courier Prime Code Regular';
+  src: local('Courier Prime Code Regular'), url(./assets/Courier-Prime-Code.ttf) format('truetype');
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/*
+.box{
+  border: black dotted 1px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+*/
+.App{
+  background-color: #d5e8fb;
   display: flex;
-  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  min-height: 100vh;
+  color: gray;
+}
+
+.logo{
+  display: flex;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-shrink: 1;
 }
 
-.App-link {
-  color: #61dafb;
+.App-logo{
+  max-width: 20%;
+  height: auto;
+  margin-right: 10px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App-logo-text{
+  color: #70163d;
+  font-size: 850%;
+  font-family: 'Courier Prime Code Regular';
+}
+
+.wip{
+  justify-self: center;
+  align-self: flex-end;
 }
